@@ -10,16 +10,16 @@ public class Task8 {
 
 		while (true) {
 			if (a < x && b < y | b < z) {
-				System.out.print("Êèðïè÷ ïðîõîäèò");
+				System.out.print("ÐšÐ¸Ñ€Ð¿Ð¸Ñ‡ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´Ð¸Ñ‚");
 				break;
 			} else if (a < y && b < x | b < z) {
-				System.out.print("Êèðïè÷ ïðîõîäèò");
+				System.out.print("ÐšÐ¸Ñ€Ð¿Ð¸Ñ‡ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´Ð¸Ñ‚");
 				break;
 			} else if (a < z && b < x | b < y) {
-				System.out.print("Êèðïè÷ ïðîõîäèò");
+				System.out.print("ÐšÐ¸Ñ€Ð¿Ð¸Ñ‡ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´Ð¸Ñ‚");
 				break;
 			} else
-				System.out.print("Ðàçáèðàé ñòåíó");
+				System.out.print("ÐšÐ¸Ñ€Ð¿Ð¸Ñ‡ Ð½Ðµ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´Ð¸Ñ‚");
 			break;
 		}
 	}
