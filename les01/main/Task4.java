@@ -11,7 +11,7 @@ public class Task4 {
 		} else if (b < a) {
 			System.out.println(8);
 		} else
-			System.out.println("×èñëà ðàâíû");
+			System.out.println(Ð§Ð¸ÑÐ»Ð° Ñ€Ð°Ð²Ð½Ñ‹");
 	}
 
 }
